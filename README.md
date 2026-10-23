@@ -5,7 +5,7 @@ Shows every game variable the server changes while you play.
 ## Install
 
 1. Download this repo (Code > Download ZIP) and unzip it.
-2. Open the unzipped folder and copy the `var-watch` folder inside it (the one with `main.lua`) into `C:\ProgramData\Jagex\RuneScape-BETA\dev_plugins\`
+2. Open the unzipped folder and copy the `var-watch` folder inside it (the one with `main.lua`) into `\Jagex\RuneScape-BETA\dev_plugins\`
 
    It should look like `dev_plugins\var-watch\main.lua`
 3. In game, open the console with Alt + `` ` ``, type `prf`, then `pon var-watch`
